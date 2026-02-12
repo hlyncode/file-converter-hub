@@ -1,0 +1,10 @@
+flask==3.0.0
+flask-cors
+reportlab
+PyPDF2
+python-docx
+ebooklib
+beautifulsoup4
+Pillow
+markdown
+werkzeug
