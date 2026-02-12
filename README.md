@@ -237,7 +237,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Hellen**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@hlyncode](https://github.com/hlyncode)
 - Email: hlyncode@gmail.com
 
 ---
